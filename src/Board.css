@@ -1,0 +1,10 @@
+.status {
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.board-row {
+    display: flex;
+}
